@@ -1,0 +1,9 @@
+# add relevent stuff to ignore here
+.DS_Store
+
+# Ignore all images
+*.png
+*.jpg
+
+# add pycaches
+__pycache__/
