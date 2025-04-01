@@ -1,14 +1,10 @@
-Here is the full content for your `README.md` file:
-
-
 # Text-to-Image Generator Server
-
-## Project Title
-**Text-to-Image Generator Server**
 
 ## Description
 This project hosts a server that utilizes a text-to-image model (Stable Diffusion) to generate high-quality images based on user-provided text prompts. It includes a Flask backend API, a web interface for user interaction, and Docker support for easy deployment.
 
+<!-- add app/web_server_demo.png image  -->
+![Web Server Demo](app/web_server_demo.png)
 ---
 
 ## Table of Contents
